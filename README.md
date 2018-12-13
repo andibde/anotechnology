@@ -1,2 +1,2 @@
 # Ano Technology
-[![Ano Technology Badge](ano-technology.png)](https://github.com/realYellowDev/anotechnology/)
+[![Ano Technology Badge](https://realyellowdev.github.io/anotechnology/ano-technology.png)](https://github.com/realYellowDev/anotechnology/)
