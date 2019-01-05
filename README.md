@@ -1,5 +1,5 @@
 # Ano Technology
-[![Ano Technology Badge](ano-technology.png)](https://github.com/realYellowDev/anotechnology/)
+[![Ano Technology Badge](https://andibde.github.io/anotechnology/ano-technology.png)](https://github.com/realYellowDev/anotechnology/)
 
 ## BADGE GUIDELINES
 * Use the badges as provided. Never alter the badges.
@@ -8,7 +8,7 @@
 
 ### How to implement in GitHub?
 ```
-[![Ano Technology Badge](http://bit.ly/anotecnologybadge)](https://github.com/realYellowDev/anotechnology/)
+[![Ano Technology Badge](https://andibde.github.io/anotechnology/ano-technology.png)](https://github.com/realYellowDev/anotechnology/)
 ```
 
 ### How to implement in HTML?
