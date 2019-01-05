@@ -8,7 +8,7 @@
 
 ### How to implement in GitHub?
 ```
-[![Ano Technology](https://andibde.github.io/anotechnology/ano-technology.png)](https://github.com/andibde/anotechnology/)
+[![Ano Technology](https://zilo.app/Clld0)](anotechnology.andib.org)
 ```
 
 ### How to implement in HTML?
