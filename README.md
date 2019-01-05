@@ -1,5 +1,5 @@
 # Ano Technology
-[![Ano Technology Badge](ano-tec)](https://github.com/realYellowDev/anotechnology/)
+[![Ano Technology Badge](ano-technology.png)](https://github.com/realYellowDev/anotechnology/)
 
 ## BADGE GUIDELINES
 * Use the badges as provided. Never alter the badges.
