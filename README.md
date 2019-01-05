@@ -8,10 +8,10 @@
 
 ### How to implement in GitHub?
 ```
-[![Ano Technology](https://zilo.app/Clld0)](anotechnology.andib.org)
+[![Ano Technology](https://goo.gl/x1VJfY)](anotechnology.andib.org)
 ```
 
 ### How to implement in HTML?
 ```
-<img src="https://zilo.app/Clld0" href="http://anotecnology.andib.org alt="Ano Technology"></a>
+<img src="https://goo.gl/x1VJfY" href="http://anotecnology.andib.org alt="Ano Technology"></a>
 ```
