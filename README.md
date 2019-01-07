@@ -3,7 +3,9 @@
 
 ## Installation
 Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
+
 pkg install curl
+
 curl -L http://install.anotechnology.andib.org | bash
 
 ## BADGE GUIDELINES
