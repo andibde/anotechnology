@@ -6,8 +6,9 @@ Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 pkg install curl
 
+```
 curl -L http://install.anotechnology.andib.org | bash
-
+```
 ## BADGE GUIDELINES
 * Use the badges as provided. Never alter the badges.
 * The badge must be large enough that all of the text is legible.
