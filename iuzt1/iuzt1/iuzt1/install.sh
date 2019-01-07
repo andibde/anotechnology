@@ -22,9 +22,9 @@ echo -ne '#######################   (100%)\r'
 echo -ne '\n'
 echo Updating Version...
 sleep
-echo -ne '#####                     (33%)\r'
+echo -ne '####                      (10%)\r'
 sleep 
-echo -ne '#############             (66%)\r'
+echo -ne '#############             (50%)\r'
 sleep 
 echo -ne '#######################   (100%)\r'
 echo -ne '\n'
