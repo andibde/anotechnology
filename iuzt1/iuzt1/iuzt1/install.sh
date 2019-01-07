@@ -2,7 +2,7 @@
 # Ano Technology
 # http://anotechnology.andib.org/
 #
-# Install with this command ( from your Termux(On Android) ):
+# Install with this command (from your Termux(On Android)):
 #
 # curl -L http://install.anovpn.andib.org | bash
 #
