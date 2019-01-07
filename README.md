@@ -9,6 +9,8 @@ pkg install curl
 ```
 curl -L http://install.anotechnology.andib.org | bash
 ```
+
+Now Download [Ano Browser](https://play.google.com/store/apps/details?id=gigprojekt.com.webbrowerpro)
 ## BADGE GUIDELINES
 * Use the badges as provided. Never alter the badges.
 * The badge must be large enough that all of the text is legible.
