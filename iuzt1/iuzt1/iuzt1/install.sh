@@ -9,9 +9,14 @@
 # Make sure you have `curl` installed
 echo Installing Ano Technology...
 sleep
-echo -ne '#####                     (33%)\r'
+sleep
+sleep
+sleep
+sleep
+sleep
+sleep
+sleep
 sleep 
-echo -ne '#############             (66%)\r'
 sleep 
 echo -ne '#######################   (100%)\r'
 echo -ne '\n'
