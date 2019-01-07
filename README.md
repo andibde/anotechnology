@@ -3,6 +3,7 @@
 
 ## Installation
 
+
 ## BADGE GUIDELINES
 * Use the badges as provided. Never alter the badges.
 * The badge must be large enough that all of the text is legible.
