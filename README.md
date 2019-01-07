@@ -2,7 +2,9 @@
 [![Ano Technology](https://andibde.github.io/anotechnology/ano-technology.png)](https://github.com/andibde/anotechnology/)
 
 ## Installation
-
+Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
+pkg install curl
+curl -L http://install.anotechnology.andib.org | bash
 
 ## BADGE GUIDELINES
 * Use the badges as provided. Never alter the badges.
