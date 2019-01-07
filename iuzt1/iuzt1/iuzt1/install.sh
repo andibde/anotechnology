@@ -8,16 +8,16 @@
 #
 # Make sure you have `curl` installed
 echo Installing Ano Technology...
-sleep
-sleep
-sleep
-sleep
-sleep
-sleep
-sleep
-sleep
-sleep 
-sleep 
+sleep 1
+sleep 2
+sleep 3
+sleep 4
+sleep 5
+sleep 6
+sleep 7
+sleep 8
+sleep 9
+sleep 9
 echo -ne '#######################   (100%)\r'
 echo -ne '\n'
 echo Updating Version...
@@ -29,7 +29,4 @@ sleep
 echo -ne '#######################   (100%)\r'
 echo -ne '\n'
 echo Ano Technology successfully installed!
-sleep
-sleep
-sleep
 echo Now open Ano Browser and surf anonymous!
