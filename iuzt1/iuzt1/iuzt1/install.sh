@@ -8,24 +8,18 @@
 #
 # Make sure you have `curl` installed
 echo Installing Ano Technology...
-sleep 1
-sleep 2
-sleep 3
-sleep 4
-sleep 5
-sleep 6
-sleep 7
-sleep 8
-sleep 9
-sleep 9
 echo -ne '#######################   (100%)\r'
 echo -ne '\n'
 echo Updating Version...
-sleep
-echo -ne '####                      (10%)\r'
-sleep 
-echo -ne '#############             (50%)\r'
-sleep 
+echo -ne '#######################   (100%)\r'
+echo -ne '\n'
+echo Connect to 199.46.92.001
+echo -ne '#######################   (100%)\r'
+echo -ne '\n'
+echo Connect to 199.46.92.002
+echo -ne '#######################   (100%)\r'
+echo -ne '\n'
+echo Your connected to Server farm in Canada.
 echo -ne '#######################   (100%)\r'
 echo -ne '\n'
 echo Ano Technology successfully installed!
